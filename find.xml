@@ -1,0 +1,11 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File 'Cell.cs'" />
+    <option name="defaultScopeName" value="File 'Cell.cs'" />
+    <option name="SEARCH_SCOPE" value="File 'Cell.cs'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.cs</mask>
+  </component>
+</application>
