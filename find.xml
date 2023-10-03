@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'Cell.cs'" />
-    <option name="defaultScopeName" value="File 'Cell.cs'" />
-    <option name="SEARCH_SCOPE" value="File 'Cell.cs'" />
+    <option name="customScope" value="File 'EditorSample.cs'" />
+    <option name="defaultScopeName" value="File 'EditorSample.cs'" />
+    <option name="SEARCH_SCOPE" value="File 'EditorSample.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
